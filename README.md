@@ -1,1 +1,1 @@
-I'm a new developer working on creating a PayID at klymacks/klymacks.github.io that you can now test with bitcoin and XRP by inputing "pay$klymacks.github.io" into the send field for wallet transactions. There's no need to send funds to test functionality. Any generous donations will be used for further development projects.
+I'm a new developer working on collecting bitcoin for projects at klymacks.btc. Try inputting it in your bitcoin wallets address bar to send some right now.
