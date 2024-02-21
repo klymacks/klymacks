@@ -1,1 +1,1 @@
-I'm a new developer working on collecting bitcoin for projects at klymacks.btc. Try inputting it in your bitcoin wallets address bar to send some right now.
+I'm a developer working on bitcoin for projects at klymacks.btc. Try inputting it in your bitcoin wallets address bar to send some right now.
