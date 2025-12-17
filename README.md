@@ -1,1 +1,1 @@
-I'm a developer working on python automation projects at the Kootenai County Assessors office.
+I'm working on python, SQL, React JS and dotnet automation projects
